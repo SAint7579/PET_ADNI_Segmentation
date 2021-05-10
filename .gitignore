@@ -1,4 +1,5 @@
 .ipynb_checkpoints/*
 Dataset/
+MIC/
 *.pkl
 *.nii
